@@ -18,6 +18,9 @@
 
 * [0 - Announcing Developer Career Roadmap](https://spec.fm/podcasts/developer-tea/49656)
 
+> `article` `full-stack` `T-shaped skills`
+
+* [Como se tornar um desenvolvedor full-stack](http://blog.alura.com.br/como-se-tornar-um-desenvolvedor-full-stack-no-proximo-ano/ "via Blog Alura")
 
 ===
 
