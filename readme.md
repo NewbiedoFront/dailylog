@@ -16,6 +16,8 @@
 
 > `podcast` `development` `software developer` `front-end`
 
+The Developer Career Roadmap is intended to provide guidelines for someone at any point in their career who wants to become a full-time software developer.
+
 * [0 - Announcing Developer Career Roadmap](https://spec.fm/podcasts/developer-tea/49656)
 
 > `article` `full-stack` `T-shaped skills`
