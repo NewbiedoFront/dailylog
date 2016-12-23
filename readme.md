@@ -26,3 +26,10 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 
 ===
 
+#### 22/12/2016 - Developer Career Roadmap by [Developer Tea](https://spec.fm/podcasts/developer-tea "A podcast for developers designed to fit inside your tea break")
+
+> `podcast` `software developer` `Time Budget` `Time management strategy`
+
+* [1 - Step One: Create a Time Budget](https://spec.fm/podcasts/developer-tea/49760 "In today's episode, we talk about step one in the Developer Career Roadmap: budgeting your time.")
+
+===
