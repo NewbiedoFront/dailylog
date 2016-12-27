@@ -40,4 +40,9 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 
 * [2 - Step Two: Picking a Base Language](https://spec.fm/podcasts/developer-tea/49854 "We talk about step two in the Developer Career Roadmap: Picking your base programming language.")
 
+> `podcast` `accessibility` `WAI-ARIA` `Alt` `SEO`
+
+* [Acessibilidade web – Hipsters #21](http://hipsters.tech/acessibilidade-web-hipsters-21/ "via hipsters.tech")
+* [transcription](http://hipsters.tech/acessibilidade-web-hipsters-21-transcricao/ "Acessibilidade web – Hipsters #21 – Transcrição")
+
 ===
