@@ -53,4 +53,8 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 
 * [3 - Step Three: Learning About Companies (Part 1)](https://spec.fm/podcasts/developer-tea/49854 "In today's episode, we start step 3 of the Developer Career Roadmap.")
 
+* ["Learning About Learning"](https://spec.fm/podcasts/developer-tea/6530 "Learning is one of the most important skills for developers to cultivate.")
+* [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ "via Google I/O 2009")
+* [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959 "Essays on Software Engineering, Anniversary Edition (2nd Edition)")
+
 ===
