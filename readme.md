@@ -46,3 +46,11 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 * [transcription](http://hipsters.tech/acessibilidade-web-hipsters-21-transcricao/ "Acessibilidade web – Hipsters #21 – Transcrição")
 
 ===
+
+#### 29/12/2016 - Developer Career Roadmap by [Developer Tea](https://spec.fm/podcasts/developer-tea "A podcast for developers designed to fit inside your tea break")
+
+> `podcast` `companies` `corporate culture` `market size`
+
+* [3 - Step Three: Learning About Companies (Part 1)](https://spec.fm/podcasts/developer-tea/49854 "In today's episode, we start step 3 of the Developer Career Roadmap.")
+
+===
