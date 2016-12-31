@@ -58,3 +58,11 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 * [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959 "Essays on Software Engineering, Anniversary Edition (2nd Edition)")
 
 ===
+
+#### 30/12/2016 - Developer Career Roadmap by [Developer Tea](https://spec.fm/podcasts/developer-tea "A podcast for developers designed to fit inside your tea break")
+
+> `podcast` `learning cycle` `discipline` `skill set` `learning methods`
+
+* [3 - Step Three: Skill Set Development (Part 2)](https://spec.fm/podcasts/developer-tea/50032 "We discuss step three in the Developer Career Roadmap, the never ending learning cycle.")
+
+===
