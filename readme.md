@@ -76,4 +76,12 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 
 * [4 - Step Four: Getting an internship or an entry level position in the industry.](https://spec.fm/podcasts/developer-tea/51110 "In today's episode, we cover the fourth step in the Developer Career Roadmap: Getting an internship or an entry level position in the industry.")
 
+> `podscast` `clean code` `bluesoft podcast`
+
+* [Clean Code | Bluesoft Podcast #19](http://labs.bluesoft.com.br/clean-code-bluesoft-podcast-19/ "Clean Code | Bluesoft Podcast #19")
+
+> `podcast` `bluesoft podcast` `productivity`
+
+* [Produtividade | Bluesoft Podcast #34](http://labs.bluesoft.com.br/produtividade-bluesoft-podcast-34/ "Produtividade | Bluesoft Podcast #34")
+
 ===
