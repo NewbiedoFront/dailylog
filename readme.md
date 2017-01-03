@@ -84,4 +84,10 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 
 * [Produtividade | Bluesoft Podcast #34](http://labs.bluesoft.com.br/produtividade-bluesoft-podcast-34/ "Produtividade | Bluesoft Podcast #34")
 
+> `high performance` `teamwork` `prodcast` `concrete solutions`
+
+* [Prodcast #9 Times de Alta Performance](http://www.concretesolutions.com.br/2016/08/18/prodcast-9-times-de-alta-performance/)
+
+`Quando uma viagem de Busão é produtiva⇡⇡⇡ ツ`
+
 ===
