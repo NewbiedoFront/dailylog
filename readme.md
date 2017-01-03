@@ -69,3 +69,11 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 * [ProdCast - #13 Carreira de Desenvolvedor](http://www.concretesolutions.com.br/2016/10/11/prodcast-13-desenvolvedor/ "via Concrete Solutions published on 10-11-16")
 
 ===
+
+#### 02/01/2017 - Developer Career Roadmap by [Developer Tea](https://spec.fm/podcasts/developer-tea "A podcast for developers designed to fit inside your tea break")
+
+> `podcast` ` Internships` `skill set` `entry level job`
+
+* [4 - Step Four: Getting an internship or an entry level position in the industry.](https://spec.fm/podcasts/developer-tea/51110 "In today's episode, we cover the fourth step in the Developer Career Roadmap: Getting an internship or an entry level position in the industry.")
+
+===
