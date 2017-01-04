@@ -98,4 +98,8 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 
 * [5 - Step Five: Cross Train (Part 1)](https://spec.fm/podcasts/developer-tea/51633 "In today's episode, we talk about the 5th step in the Developer Career Roadmap - cross training.")
 
+* [Creating Useful Metaphors](https://spec.fm/podcasts/developer-tea/12509 "In this episode, I'll share with you why metaphors are so powerful, and how you can create effective metaphors yourself!")
+
+* [Abstract Mental Models](https://spec.fm/podcasts/developer-tea/35551 "In today's episode, I talk about four different types of abstract mental models.")
+
 ===
