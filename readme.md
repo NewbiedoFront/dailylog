@@ -91,3 +91,11 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 `Quando uma viagem de Busão é produtiva⇡⇡⇡ ツ`
 
 ===
+
+#### 04/01/2017 - Developer Career Roadmap by [Developer Tea](https://spec.fm/podcasts/developer-tea "A podcast for developers designed to fit inside your tea break")
+
+> `podcast` `cross training` `skill set`
+
+* [5 - Step Five: Cross Train (Part 1)](https://spec.fm/podcasts/developer-tea/51633 "In today's episode, we talk about the 5th step in the Developer Career Roadmap - cross training.")
+
+===
