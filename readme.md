@@ -103,3 +103,13 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 * [Abstract Mental Models](https://spec.fm/podcasts/developer-tea/35551 "In today's episode, I talk about four different types of abstract mental models.")
 
 ===
+
+#### 06/01/2017 - Developer Career Roadmap by [Developer Tea](https://spec.fm/podcasts/developer-tea "A podcast for developers designed to fit inside your tea break")
+
+> `podcast` `cross training` `skill set` `DCR 5° - part 2`
+
+* [5 - Step Five: Cross Train (Part 2)](https://spec.fm/podcasts/developer-tea/51785 "In today's episode, we talk about the 5th step in the Developer Career Roadmap - cross training (Part 2).")
+
+===
+
+
