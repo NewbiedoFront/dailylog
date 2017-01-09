@@ -112,4 +112,10 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 
 ===
 
+#### 08/01/2017 - Developer Career Roadmap by [Developer Tea](https://spec.fm/podcasts/developer-tea "A podcast for developers designed to fit inside your tea break")
 
+> `podcast` `Going Public` `DCR - Developer Tea`
+
+* [6 - Step Six: Going Public](https://spec.fm/podcasts/developer-tea/52430 "n today's episode, we talk about Developer Career Roadmap step 6, going public.")
+
+===
