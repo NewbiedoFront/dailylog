@@ -116,6 +116,14 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 
 > `podcast` `Going Public` `DCR - Developer Tea`
 
-* [6 - Step Six: Going Public](https://spec.fm/podcasts/developer-tea/52430 "n today's episode, we talk about Developer Career Roadmap step 6, going public.")
+* [6 - Step Six: Going Public](https://spec.fm/podcasts/developer-tea/52430 "In today's episode, we talk about Developer Career Roadmap step 6, going public.")
+
+===
+
+#### 10/01/2017 - Developer Career Roadmap by [Developer Tea](https://spec.fm/podcasts/developer-tea "A podcast for developers designed to fit inside your tea break")
+
+> `podcast` `interviewing skills` `Interviewing` `DCR - Developer Tea`
+
+* [7 - Step Seven: Interviewing](https://spec.fm/podcasts/developer-tea/52760 "In today's episode, we talk about the incredibly important process of interviewing. More specifically, where you should interview, and for what position.")
 
 ===
