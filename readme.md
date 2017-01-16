@@ -127,3 +127,11 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 * [x] [7 - Step Seven: Interviewing](https://spec.fm/podcasts/developer-tea/52760 "In today's episode, we talk about the incredibly important process of interviewing. More specifically, where you should interview, and for what position.")
 
 ===
+
+#### 15/01/2017 - Developer Career Roadmap by [Developer Tea](https://spec.fm/podcasts/developer-tea "A podcast for developers designed to fit inside your tea break")
+
+> `podcast` `working hard` ` skillset` `DCR - Developer Tea`
+
+* [x] [8 - Step Eight: Do Your Job Better Than Anyone Else](https://spec.fm/podcasts/developer-tea/52905 "In today's episode, we cover the next step in the Developer Career Roadmap.")
+
+===
