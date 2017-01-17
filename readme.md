@@ -135,3 +135,11 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 * [x] [8 - Step Eight: Do Your Job Better Than Anyone Else](https://spec.fm/podcasts/developer-tea/52905 "In today's episode, we cover the next step in the Developer Career Roadmap.")
 
 ===
+
+#### 17/01/2017 - Developer Career Roadmap by [Developer Tea](https://spec.fm/podcasts/developer-tea "A podcast for developers designed to fit inside your tea break")
+
+> `podcast` `Replace Yourself` `DCR - Developer Tea`
+
+* [x] [9 - Step Nine: Replace Yourself](https://spec.fm/podcasts/developer-tea/53084 "In today's episode, we cover the final step in the Developer Career Roadmap: Replace Yourself.")
+
+===
