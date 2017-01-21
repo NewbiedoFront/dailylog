@@ -144,4 +144,4 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 
 ===
 
-### 20/01/2017 - Usando Variáveis no Css de Forma Nativa by Afonso Pacifer  (https://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/ "via Tableless")
+### 20/01/2017 - Usando Variáveis no Css de Forma Nativa by Afonso Pacifer  [CSS Custom Properties for Cascading Variables Module Level 1](https://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/ "via Tableless")
