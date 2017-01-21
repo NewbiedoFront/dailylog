@@ -144,4 +144,24 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 
 ===
 
-### 20/01/2017 - Usando Variáveis no Css de Forma Nativa by Afonso Pacifer  [CSS Custom Properties for Cascading Variables Module Level 1](https://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/ "via Tableless")
+### 20/01/2017 - Usando Variáveis no Css de Forma Nativa by Afonso Pacifer 
+
+> `css` `custom properties` `variables in css`
+
+* [x] [CSS Custom Properties for Cascading Variables Module Level 1](https://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/ "via Tableless")
+
+===
+
+### 21/01/2017 - ProdCast #17 Lean by [ConcreteSolution](http://www.concretesolutions.com.br/)
+
+> `lean` `metodologias ageis` `ProdCast` `podcast`
+
+* [x] [Lean - A metodologia para combater o desperdício.](http://www.concretesolutions.com.br/2016/12/06/prodcast-17-lean/ "Lean é uma Metodologia que tem muito a ver com o jeito em que desenvolvemos produtos digitais.")
+
+1. [– Livro Lean Thinking.](https://www.amazon.com.br/Lean-Thinking-Corporation-Revised-Updated/dp/0743249275)
+1. [– Lean Software Development.](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
+1. [– Vídeo: Lean Software Development.](https://www.youtube.com/watch?v=-3iT51GgQlA&t=1s)
+1. [– Artigo: The New New Product Development Game.](https://hbr.org/1986/01/the-new-new-product-development-game)
+1. [– Scrum Guide.](http://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-US.pdf#zoom=100)
+
+===
