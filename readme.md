@@ -143,3 +143,5 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 * [x] [9 - Step Nine: Replace Yourself](https://spec.fm/podcasts/developer-tea/53084 "In today's episode, we cover the final step in the Developer Career Roadmap: Replace Yourself.")
 
 ===
+
+### 20/01/2017 - Usando Variáveis no Css de Forma Nativa by Afonso Pacifer  (https://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/ "via Tableless")
