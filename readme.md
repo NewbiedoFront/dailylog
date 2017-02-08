@@ -165,3 +165,13 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 1. [– Scrum Guide.](http://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-US.pdf#zoom=100)
 
 ===
+
+### 08/02/2017 - [Lá no Blog - Jean Carlo Emer](http://jcemer.com/o-estado-do-desenvolvimento-front-end.html "2016 E O ESTADO DO DESENVOLVIMENTO FRONT-END")
+
+> `Front in POA` `Jean Carlo Emer` `Palestra` `Artigo`
+
+* [x] Front in POA 2016 - Jean Carlo Emer: [Como encarar o desenvolvimento front-end](https://www.youtube.com/watch?v=M8Z66hlxYeI "2016 E O ESTADO DO DESENVOLVIMENTO FRONT-END")
+
+> A todo tempo surgem novas formas de pensar e estruturar interfaces para a Internet. Esta palestra toma um olhar crítico a respeito de ferramentas, técnicas e código front-end em geral.
+
+===
