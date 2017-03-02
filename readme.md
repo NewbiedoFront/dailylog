@@ -175,3 +175,13 @@ The Developer Career Roadmap is intended to provide guidelines for someone at an
 > A todo tempo surgem novas formas de pensar e estruturar interfaces para a Internet. Esta palestra toma um olhar crítico a respeito de ferramentas, técnicas e código front-end em geral.
 
 ===
+
+### 01/03/2017 - ProdCast #23 Lean by [ConcreteSolution](http://www.concretesolutions.com.br/)
+
+> `JavaScript` `FrontEnd` `Angular` `React` `podcast`
+
+* [x] [O que aconteceu com o JavaScript?](http://www.concretesolutions.com.br/2017/02/28/prodcast-23-javascript/ "Há uns cinco anos observamos muitas mudanças no front-end. Hoje vamos falar do JavaScript!")
+
+> Como era, o que tá rolando agora e, claro, o que vem por aí.
+
+===
